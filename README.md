@@ -82,7 +82,7 @@ justify-content: flext end is used so that elements are aligned to right side of
 
 text indent is used to specify the gap between border of box and starting letter of para
 
-
+rest of the elements used are already explained. 
 
 
 
